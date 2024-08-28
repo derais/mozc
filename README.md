@@ -1,3 +1,5 @@
+lol
+
 [Mozc - a Japanese Input Method Editor designed for multi-platform](https://github.com/google/mozc)
 ===================================
 
